@@ -1,0 +1,24 @@
+C:\Users\55219\Desktop\CursoMvcUdemy\EFCore.Dominio\bin\Debug\net5.0\EFCore.Dominio.deps.json
+C:\Users\55219\Desktop\CursoMvcUdemy\EFCore.Dominio\bin\Debug\net5.0\EFCore.Dominio.dll
+C:\Users\55219\Desktop\CursoMvcUdemy\EFCore.Dominio\bin\Debug\net5.0\ref\EFCore.Dominio.dll
+C:\Users\55219\Desktop\CursoMvcUdemy\EFCore.Dominio\bin\Debug\net5.0\EFCore.Dominio.pdb
+C:\Users\55219\Desktop\CursoMvcUdemy\EFCore.Dominio\obj\Debug\net5.0\EFCore.Dominio.csproj.AssemblyReference.cache
+C:\Users\55219\Desktop\CursoMvcUdemy\EFCore.Dominio\obj\Debug\net5.0\EFCore.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55219\Desktop\CursoMvcUdemy\EFCore.Dominio\obj\Debug\net5.0\EFCore.Dominio.AssemblyInfoInputs.cache
+C:\Users\55219\Desktop\CursoMvcUdemy\EFCore.Dominio\obj\Debug\net5.0\EFCore.Dominio.AssemblyInfo.cs
+C:\Users\55219\Desktop\CursoMvcUdemy\EFCore.Dominio\obj\Debug\net5.0\EFCore.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\55219\Desktop\CursoMvcUdemy\EFCore.Dominio\obj\Debug\net5.0\EFCore.Dominio.dll
+C:\Users\55219\Desktop\CursoMvcUdemy\EFCore.Dominio\obj\Debug\net5.0\ref\EFCore.Dominio.dll
+C:\Users\55219\Desktop\CursoMvcUdemy\EFCore.Dominio\obj\Debug\net5.0\EFCore.Dominio.pdb
+C:\Users\55219\Desktop\CursoMvcUdemy\Projeto Herois\EFCore.Dominio\bin\Debug\net5.0\EFCore.Dominio.deps.json
+C:\Users\55219\Desktop\CursoMvcUdemy\Projeto Herois\EFCore.Dominio\bin\Debug\net5.0\EFCore.Dominio.dll
+C:\Users\55219\Desktop\CursoMvcUdemy\Projeto Herois\EFCore.Dominio\bin\Debug\net5.0\ref\EFCore.Dominio.dll
+C:\Users\55219\Desktop\CursoMvcUdemy\Projeto Herois\EFCore.Dominio\bin\Debug\net5.0\EFCore.Dominio.pdb
+C:\Users\55219\Desktop\CursoMvcUdemy\Projeto Herois\EFCore.Dominio\obj\Debug\net5.0\EFCore.Dominio.csproj.AssemblyReference.cache
+C:\Users\55219\Desktop\CursoMvcUdemy\Projeto Herois\EFCore.Dominio\obj\Debug\net5.0\EFCore.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55219\Desktop\CursoMvcUdemy\Projeto Herois\EFCore.Dominio\obj\Debug\net5.0\EFCore.Dominio.AssemblyInfoInputs.cache
+C:\Users\55219\Desktop\CursoMvcUdemy\Projeto Herois\EFCore.Dominio\obj\Debug\net5.0\EFCore.Dominio.AssemblyInfo.cs
+C:\Users\55219\Desktop\CursoMvcUdemy\Projeto Herois\EFCore.Dominio\obj\Debug\net5.0\EFCore.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\55219\Desktop\CursoMvcUdemy\Projeto Herois\EFCore.Dominio\obj\Debug\net5.0\EFCore.Dominio.dll
+C:\Users\55219\Desktop\CursoMvcUdemy\Projeto Herois\EFCore.Dominio\obj\Debug\net5.0\ref\EFCore.Dominio.dll
+C:\Users\55219\Desktop\CursoMvcUdemy\Projeto Herois\EFCore.Dominio\obj\Debug\net5.0\EFCore.Dominio.pdb

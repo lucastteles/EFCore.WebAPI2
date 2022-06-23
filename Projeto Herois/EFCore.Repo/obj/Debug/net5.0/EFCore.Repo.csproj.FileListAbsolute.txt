@@ -1,0 +1,36 @@
+C:\Users\55219\Desktop\CursoMvcUdemy\EFCore.Repo\bin\Debug\net5.0\EFCore.Repo.deps.json
+C:\Users\55219\Desktop\CursoMvcUdemy\EFCore.Repo\bin\Debug\net5.0\EFCore.Repo.dll
+C:\Users\55219\Desktop\CursoMvcUdemy\EFCore.Repo\bin\Debug\net5.0\ref\EFCore.Repo.dll
+C:\Users\55219\Desktop\CursoMvcUdemy\EFCore.Repo\bin\Debug\net5.0\EFCore.Repo.pdb
+C:\Users\55219\Desktop\CursoMvcUdemy\EFCore.Repo\bin\Debug\net5.0\EFCore.Dominio.dll
+C:\Users\55219\Desktop\CursoMvcUdemy\EFCore.Repo\bin\Debug\net5.0\EFCore.Dominio.pdb
+C:\Users\55219\Desktop\CursoMvcUdemy\EFCore.Repo\obj\Debug\net5.0\EFCore.Repo.csproj.AssemblyReference.cache
+C:\Users\55219\Desktop\CursoMvcUdemy\EFCore.Repo\obj\Debug\net5.0\EFCore.Repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55219\Desktop\CursoMvcUdemy\EFCore.Repo\obj\Debug\net5.0\EFCore.Repo.AssemblyInfoInputs.cache
+C:\Users\55219\Desktop\CursoMvcUdemy\EFCore.Repo\obj\Debug\net5.0\EFCore.Repo.AssemblyInfo.cs
+C:\Users\55219\Desktop\CursoMvcUdemy\EFCore.Repo\obj\Debug\net5.0\EFCore.Repo.csproj.CoreCompileInputs.cache
+C:\Users\55219\Desktop\CursoMvcUdemy\EFCore.Repo\obj\Debug\net5.0\EFCore.Repo.csproj.CopyComplete
+C:\Users\55219\Desktop\CursoMvcUdemy\EFCore.Repo\obj\Debug\net5.0\EFCore.Repo.dll
+C:\Users\55219\Desktop\CursoMvcUdemy\EFCore.Repo\obj\Debug\net5.0\ref\EFCore.Repo.dll
+C:\Users\55219\Desktop\CursoMvcUdemy\EFCore.Repo\obj\Debug\net5.0\EFCore.Repo.pdb
+C:\Users\55219\Desktop\CursoMvcUdemy\EFCore.Repo\bin\Debug\net5.0\EFCore.Repo.runtimeconfig.json
+C:\Users\55219\Desktop\CursoMvcUdemy\EFCore.Repo\bin\Debug\net5.0\EFCore.Repo.runtimeconfig.dev.json
+C:\Users\55219\Desktop\CursoMvcUdemy\EFCore.Repo\obj\Debug\net5.0\EFCore.Repo.genruntimeconfig.cache
+C:\Users\55219\Desktop\CursoMvcUdemy\Projeto Herois\EFCore.Repo\bin\Debug\net5.0\EFCore.Repo.deps.json
+C:\Users\55219\Desktop\CursoMvcUdemy\Projeto Herois\EFCore.Repo\bin\Debug\net5.0\EFCore.Repo.runtimeconfig.json
+C:\Users\55219\Desktop\CursoMvcUdemy\Projeto Herois\EFCore.Repo\bin\Debug\net5.0\EFCore.Repo.runtimeconfig.dev.json
+C:\Users\55219\Desktop\CursoMvcUdemy\Projeto Herois\EFCore.Repo\bin\Debug\net5.0\EFCore.Repo.dll
+C:\Users\55219\Desktop\CursoMvcUdemy\Projeto Herois\EFCore.Repo\bin\Debug\net5.0\ref\EFCore.Repo.dll
+C:\Users\55219\Desktop\CursoMvcUdemy\Projeto Herois\EFCore.Repo\bin\Debug\net5.0\EFCore.Repo.pdb
+C:\Users\55219\Desktop\CursoMvcUdemy\Projeto Herois\EFCore.Repo\bin\Debug\net5.0\EFCore.Dominio.dll
+C:\Users\55219\Desktop\CursoMvcUdemy\Projeto Herois\EFCore.Repo\bin\Debug\net5.0\EFCore.Dominio.pdb
+C:\Users\55219\Desktop\CursoMvcUdemy\Projeto Herois\EFCore.Repo\obj\Debug\net5.0\EFCore.Repo.csproj.AssemblyReference.cache
+C:\Users\55219\Desktop\CursoMvcUdemy\Projeto Herois\EFCore.Repo\obj\Debug\net5.0\EFCore.Repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55219\Desktop\CursoMvcUdemy\Projeto Herois\EFCore.Repo\obj\Debug\net5.0\EFCore.Repo.AssemblyInfoInputs.cache
+C:\Users\55219\Desktop\CursoMvcUdemy\Projeto Herois\EFCore.Repo\obj\Debug\net5.0\EFCore.Repo.AssemblyInfo.cs
+C:\Users\55219\Desktop\CursoMvcUdemy\Projeto Herois\EFCore.Repo\obj\Debug\net5.0\EFCore.Repo.csproj.CoreCompileInputs.cache
+C:\Users\55219\Desktop\CursoMvcUdemy\Projeto Herois\EFCore.Repo\obj\Debug\net5.0\EFCore.Repo.csproj.CopyComplete
+C:\Users\55219\Desktop\CursoMvcUdemy\Projeto Herois\EFCore.Repo\obj\Debug\net5.0\EFCore.Repo.dll
+C:\Users\55219\Desktop\CursoMvcUdemy\Projeto Herois\EFCore.Repo\obj\Debug\net5.0\ref\EFCore.Repo.dll
+C:\Users\55219\Desktop\CursoMvcUdemy\Projeto Herois\EFCore.Repo\obj\Debug\net5.0\EFCore.Repo.pdb
+C:\Users\55219\Desktop\CursoMvcUdemy\Projeto Herois\EFCore.Repo\obj\Debug\net5.0\EFCore.Repo.genruntimeconfig.cache
